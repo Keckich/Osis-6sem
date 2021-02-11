@@ -1,0 +1,1 @@
+void result(std::string directory, std::string output);
