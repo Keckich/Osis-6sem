@@ -1,0 +1,3 @@
+Path: ../tests/input1.txt, operation: 2, result: 1.46617e+06
+Path: ../tests/input3.txt, operation: 3, result: 5208.57
+Path: ../tests/input2.txt, operation: 1, result: 18.4
